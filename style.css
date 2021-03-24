@@ -1,0 +1,21 @@
+.title {
+  background-color: orange;
+  width: 60%;
+  margin: auto;
+  text-align:center;
+}
+.position{
+  display:flex;
+  width: 30%;
+  margin: 2% auto;
+  background-color: red
+}
+.zonaPulsador{
+  background-color: lightblue;
+  width: 7vw;
+  height: 7vw;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin: auto;
+}
